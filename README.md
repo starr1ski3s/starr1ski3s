@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  wip . [straw](https://starr1ski3s.straw.page)
+  wip  .  [straw](https://starr1ski3s.straw.page)
 
 </div>
 
