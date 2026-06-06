@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=starr1ski3s&color=c46c31&label=stars+★+)
+  ![](https://komarev.com/ghpvc/?username=starr1ski3s&color=c46c31&label=stars+★+&style=plastic)
   
 </div>
 
