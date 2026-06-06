@@ -12,6 +12,12 @@
 
 <div align="center">
   
+  ![](https://komarev.com/ghpvc/?username=starr1ski3s&color=c46c31&label=stars+★+)
+  
+</div>
+
+<div align="center">
+  
   <img width="" height="" src="https://i.postimg.cc/FH3z5M7m/Untitled27-20260602201824.png" alt="bottom-divider">
 
 </div>
